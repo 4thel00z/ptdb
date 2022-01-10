@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ptdb"
-version = "0.1.0"
+version = "0.1.1"
 description = "A pdb class based on ptpython"
 authors = ["4thel00z <4thel00z@gmail.com>"]
 license = "GPL-3"
