@@ -1,5 +1,7 @@
 # ptb
 
+![Usage](https://raw.githubusercontent.com/4thel00z/ptdb/master/ptdb.png)
+
 ## Motivation
 
 pdb sucks, the other packages do weird stuff and type completion does not work in interact mode (looking at you ipdb).
