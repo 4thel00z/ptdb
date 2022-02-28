@@ -21,7 +21,7 @@ from ptdb import set_trace
 
 # some where in your code do:
 
-ptb.set_trace()
+set_trace()
 
 # Then just type the following to be thrown into a ptpython shell
 interact
